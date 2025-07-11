@@ -7,7 +7,7 @@ This project is a full-stack chat application featuring a Django backend and a R
 - **Backend**: Django, Django REST Framework, Django Channels
 - **Frontend**: React
 - **Real-time**: WebSockets
-- **AI**: RAG with Together AI
+- **AI**: Simple use Meta Model using Together API
 
 ## Project Structure
 
