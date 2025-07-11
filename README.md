@@ -1,6 +1,6 @@
 # Full-Stack AI Chat Application
 
-This project is a full-stack chat application featuring a Django backend and a React frontend. It uses WebSockets for real-time communication and integrates a Retrieval-Augmented Generation (RAG) system using the Together AI API.
+This project is a full-stack chat application featuring a Django backend and a React frontend. It uses WebSockets for real-time communication and integrates a AI model using Together API.
 
 ## Features
 
