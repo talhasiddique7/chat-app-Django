@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+node_modules
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+.env
+
+# Frontend
+/frontend/node_modules
+/frontend/build
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
